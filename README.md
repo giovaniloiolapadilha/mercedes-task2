@@ -1,8 +1,4 @@
-#Mercedes-Benz Task2
-
-What I need before run?
-- You need already install node.js
-
+# Mercedes-Benz Task2
 
 ## What I need before run?
 
